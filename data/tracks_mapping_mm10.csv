@@ -1,0 +1,259 @@
+original_index,track_index,identifier,filename,track_type,strand,strand_pair,ontology,gtex_tissue,source,transform_scale,transform_threshold,scale,apply_squashing,pre_transform_scale
+0,0,CL:0000037 total RNA-seq,mouse-CL_0000037_total_RNA-seq-plus.gtrack,rna,+,71,CL:0000037,,encode,1.0,10.0,0.5,True,1.0
+1,1,CL:0000038 total RNA-seq,mouse-CL_0000038_total_RNA-seq-plus.gtrack,rna,+,72,CL:0000038,,encode,1.0,10.0,0.5,True,1.0
+2,2,CL:0000049 total RNA-seq,mouse-CL_0000049_total_RNA-seq-plus.gtrack,rna,+,73,CL:0000049,,encode,1.0,10.0,0.5,True,1.0
+3,3,CL:0000050 polyA plus RNA-seq,mouse-CL_0000050_polyA_plus_RNA-seq-plus.gtrack,rna,+,74,CL:0000050,,encode,1.0,10.0,0.5,True,1.0
+4,4,CL:0000050 total RNA-seq,mouse-CL_0000050_total_RNA-seq-plus.gtrack,rna,+,75,CL:0000050,,encode,1.0,10.0,0.5,True,1.0
+5,5,CL:0000084 total RNA-seq,mouse-CL_0000084_total_RNA-seq-plus.gtrack,rna,+,76,CL:0000084,,encode,1.0,10.0,0.5,True,1.0
+6,6,CL:0000235 polyA plus RNA-seq,mouse-CL_0000235_polyA_plus_RNA-seq-plus.gtrack,rna,+,77,CL:0000235,,encode,1.0,10.0,0.5,True,1.0
+7,7,CL:0000235 total RNA-seq,mouse-CL_0000235_total_RNA-seq-plus.gtrack,rna,+,78,CL:0000235,,encode,1.0,10.0,0.5,True,1.0
+8,8,CL:0000236 total RNA-seq,mouse-CL_0000236_total_RNA-seq-plus.gtrack,rna,+,79,CL:0000236,,encode,1.0,10.0,0.5,True,1.0
+9,9,CL:0000553 total RNA-seq,mouse-CL_0000553_total_RNA-seq-plus.gtrack,rna,+,80,CL:0000553,,encode,1.0,10.0,0.5,True,1.0
+10,10,CL:0000556 polyA plus RNA-seq,mouse-CL_0000556_polyA_plus_RNA-seq-plus.gtrack,rna,+,81,CL:0000556,,encode,1.0,10.0,0.5,True,1.0
+11,11,CL:0000556 total RNA-seq,mouse-CL_0000556_total_RNA-seq-plus.gtrack,rna,+,82,CL:0000556,,encode,1.0,10.0,0.5,True,1.0
+12,12,CL:0000557 total RNA-seq,mouse-CL_0000557_total_RNA-seq-plus.gtrack,rna,+,83,CL:0000557,,encode,1.0,10.0,0.5,True,1.0
+13,13,CL:0000576 total RNA-seq,mouse-CL_0000576_total_RNA-seq-plus.gtrack,rna,+,84,CL:0000576,,encode,1.0,10.0,0.5,True,1.0
+14,14,CL:0000765 polyA plus RNA-seq,mouse-CL_0000765_polyA_plus_RNA-seq-plus.gtrack,rna,+,85,CL:0000765,,encode,1.0,10.0,0.5,True,1.0
+15,15,CL:0000765 total RNA-seq,mouse-CL_0000765_total_RNA-seq-plus.gtrack,rna,+,86,CL:0000765,,encode,1.0,10.0,0.5,True,1.0
+16,16,CL:0000775 total RNA-seq,mouse-CL_0000775_total_RNA-seq-plus.gtrack,rna,+,87,CL:0000775,,encode,1.0,10.0,0.5,True,1.0
+17,17,CL:0000837 polyA plus RNA-seq,mouse-CL_0000837_polyA_plus_RNA-seq-plus.gtrack,rna,+,88,CL:0000837,,encode,1.0,10.0,0.5,True,1.0
+18,18,CL:0002476 polyA plus RNA-seq,mouse-CL_0002476_polyA_plus_RNA-seq-plus.gtrack,rna,+,89,CL:0002476,,encode,1.0,10.0,0.5,True,1.0
+19,19,CL:2000042 polyA plus RNA-seq,mouse-CL_2000042_polyA_plus_RNA-seq-plus.gtrack,rna,+,90,CL:2000042,,encode,1.0,10.0,0.5,True,1.0
+20,20,EFO:0002034 polyA plus RNA-seq,mouse-EFO_0002034_polyA_plus_RNA-seq-plus.gtrack,rna,+,91,EFO:0002034,,encode,1.0,10.0,0.5,True,1.0
+21,21,EFO:0002034 total RNA-seq,mouse-EFO_0002034_total_RNA-seq-plus.gtrack,rna,+,92,EFO:0002034,,encode,1.0,10.0,0.5,True,1.0
+22,22,EFO:0002055 polyA plus RNA-seq,mouse-EFO_0002055_polyA_plus_RNA-seq-plus.gtrack,rna,+,93,EFO:0002055,,encode,1.0,10.0,0.5,True,1.0
+23,23,EFO:0003971 polyA plus RNA-seq,mouse-EFO_0003971_polyA_plus_RNA-seq-plus.gtrack,rna,+,94,EFO:0003971,,encode,1.0,10.0,0.5,True,1.0
+24,24,EFO:0003971 total RNA-seq,mouse-EFO_0003971_total_RNA-seq-plus.gtrack,rna,+,95,EFO:0003971,,encode,1.0,10.0,0.5,True,1.0
+25,25,EFO:0005233 total RNA-seq,mouse-EFO_0005233_total_RNA-seq-plus.gtrack,rna,+,96,EFO:0005233,,encode,1.0,10.0,0.5,True,1.0
+26,26,EFO:0005483 polyA plus RNA-seq,mouse-EFO_0005483_polyA_plus_RNA-seq-plus.gtrack,rna,+,97,EFO:0005483,,encode,1.0,10.0,0.5,True,1.0
+27,27,EFO:0007075 total RNA-seq,mouse-EFO_0007075_total_RNA-seq-plus.gtrack,rna,+,98,EFO:0007075,,encode,1.0,10.0,0.5,True,1.0
+28,28,NTR:0000496 total RNA-seq,mouse-NTR_0000496_total_RNA-seq-plus.gtrack,rna,+,99,NTR:0000496,,encode,1.0,10.0,0.5,True,1.0
+29,29,NTR:0000501 total RNA-seq,mouse-NTR_0000501_total_RNA-seq-plus.gtrack,rna,+,100,NTR:0000501,,encode,1.0,10.0,0.5,True,1.0
+30,30,NTR:0000646 total RNA-seq,mouse-NTR_0000646_total_RNA-seq-plus.gtrack,rna,+,101,NTR:0000646,,encode,1.0,10.0,0.5,True,1.0
+31,31,NTR:0000714 polyA plus RNA-seq,mouse-NTR_0000714_polyA_plus_RNA-seq-plus.gtrack,rna,+,102,NTR:0000714,,encode,1.0,10.0,0.5,True,1.0
+32,32,UBERON:0000059 polyA plus RNA-seq,mouse-UBERON_0000059_polyA_plus_RNA-seq-plus.gtrack,rna,+,103,UBERON:0000059,,encode,1.0,10.0,0.5,True,1.0
+33,33,UBERON:0000473 polyA plus RNA-seq,mouse-UBERON_0000473_polyA_plus_RNA-seq-plus.gtrack,rna,+,104,UBERON:0000473,,encode,1.0,10.0,0.5,True,1.0
+34,34,UBERON:0000945 polyA plus RNA-seq,mouse-UBERON_0000945_polyA_plus_RNA-seq-plus.gtrack,rna,+,105,UBERON:0000945,,encode,1.0,10.0,0.5,True,1.0
+35,35,UBERON:0000948 polyA plus RNA-seq,mouse-UBERON_0000948_polyA_plus_RNA-seq-plus.gtrack,rna,+,106,UBERON:0000948,,encode,1.0,10.0,0.5,True,1.0
+36,36,UBERON:0000948 total RNA-seq,mouse-UBERON_0000948_total_RNA-seq-plus.gtrack,rna,+,107,UBERON:0000948,,encode,1.0,10.0,0.5,True,1.0
+37,37,UBERON:0000955 polyA plus RNA-seq,mouse-UBERON_0000955_polyA_plus_RNA-seq-plus.gtrack,rna,+,108,UBERON:0000955,,encode,1.0,10.0,0.5,True,1.0
+38,38,UBERON:0000992 polyA plus RNA-seq,mouse-UBERON_0000992_polyA_plus_RNA-seq-plus.gtrack,rna,+,109,UBERON:0000992,,encode,1.0,10.0,0.5,True,1.0
+39,39,UBERON:0001013 polyA plus RNA-seq,mouse-UBERON_0001013_polyA_plus_RNA-seq-plus.gtrack,rna,+,110,UBERON:0001013,,encode,1.0,10.0,0.5,True,1.0
+40,40,UBERON:0001017 polyA plus RNA-seq,mouse-UBERON_0001017_polyA_plus_RNA-seq-plus.gtrack,rna,+,111,UBERON:0001017,,encode,1.0,10.0,0.5,True,1.0
+41,41,UBERON:0001155 polyA plus RNA-seq,mouse-UBERON_0001155_polyA_plus_RNA-seq-plus.gtrack,rna,+,112,UBERON:0001155,,encode,1.0,10.0,0.5,True,1.0
+42,42,UBERON:0001159 polyA plus RNA-seq,mouse-UBERON_0001159_polyA_plus_RNA-seq-plus.gtrack,rna,+,113,UBERON:0001159,,encode,1.0,10.0,0.5,True,1.0
+43,43,UBERON:0001255 polyA plus RNA-seq,mouse-UBERON_0001255_polyA_plus_RNA-seq-plus.gtrack,rna,+,114,UBERON:0001255,,encode,1.0,10.0,0.5,True,1.0
+44,44,UBERON:0001264 polyA plus RNA-seq,mouse-UBERON_0001264_polyA_plus_RNA-seq-plus.gtrack,rna,+,115,UBERON:0001264,,encode,1.0,10.0,0.5,True,1.0
+45,45,UBERON:0001348 polyA plus RNA-seq,mouse-UBERON_0001348_polyA_plus_RNA-seq-plus.gtrack,rna,+,116,UBERON:0001348,,encode,1.0,10.0,0.5,True,1.0
+46,46,UBERON:0001388 total RNA-seq,mouse-UBERON_0001388_total_RNA-seq-plus.gtrack,rna,+,117,UBERON:0001388,,encode,1.0,10.0,0.5,True,1.0
+47,47,UBERON:0001870 polyA plus RNA-seq,mouse-UBERON_0001870_polyA_plus_RNA-seq-plus.gtrack,rna,+,118,UBERON:0001870,,encode,1.0,10.0,0.5,True,1.0
+48,48,UBERON:0001890 total RNA-seq,mouse-UBERON_0001890_total_RNA-seq-plus.gtrack,rna,+,119,UBERON:0001890,,encode,1.0,10.0,0.5,True,1.0
+49,49,UBERON:0001891 total RNA-seq,mouse-UBERON_0001891_total_RNA-seq-plus.gtrack,rna,+,120,UBERON:0001891,,encode,1.0,10.0,0.5,True,1.0
+50,50,UBERON:0001911 polyA plus RNA-seq,mouse-UBERON_0001911_polyA_plus_RNA-seq-plus.gtrack,rna,+,121,UBERON:0001911,,encode,1.0,10.0,0.5,True,1.0
+51,51,UBERON:0001987 polyA plus RNA-seq,mouse-UBERON_0001987_polyA_plus_RNA-seq-plus.gtrack,rna,+,122,UBERON:0001987,,encode,1.0,10.0,0.5,True,1.0
+52,52,UBERON:0002028 total RNA-seq,mouse-UBERON_0002028_total_RNA-seq-plus.gtrack,rna,+,123,UBERON:0002028,,encode,1.0,10.0,0.5,True,1.0
+53,53,UBERON:0002037 polyA plus RNA-seq,mouse-UBERON_0002037_polyA_plus_RNA-seq-plus.gtrack,rna,+,124,UBERON:0002037,,encode,1.0,10.0,0.5,True,1.0
+54,54,UBERON:0002048 polyA plus RNA-seq,mouse-UBERON_0002048_polyA_plus_RNA-seq-plus.gtrack,rna,+,125,UBERON:0002048,,encode,1.0,10.0,0.5,True,1.0
+55,55,UBERON:0002101 polyA plus RNA-seq,mouse-UBERON_0002101_polyA_plus_RNA-seq-plus.gtrack,rna,+,126,UBERON:0002101,,encode,1.0,10.0,0.5,True,1.0
+56,56,UBERON:0002106 polyA plus RNA-seq,mouse-UBERON_0002106_polyA_plus_RNA-seq-plus.gtrack,rna,+,127,UBERON:0002106,,encode,1.0,10.0,0.5,True,1.0
+57,57,UBERON:0002107 polyA plus RNA-seq,mouse-UBERON_0002107_polyA_plus_RNA-seq-plus.gtrack,rna,+,128,UBERON:0002107,,encode,1.0,10.0,0.5,True,1.0
+58,58,UBERON:0002107 total RNA-seq,mouse-UBERON_0002107_total_RNA-seq-plus.gtrack,rna,+,129,UBERON:0002107,,encode,1.0,10.0,0.5,True,1.0
+59,59,UBERON:0002108 polyA plus RNA-seq,mouse-UBERON_0002108_polyA_plus_RNA-seq-plus.gtrack,rna,+,130,UBERON:0002108,,encode,1.0,10.0,0.5,True,1.0
+60,60,UBERON:0002113 polyA plus RNA-seq,mouse-UBERON_0002113_polyA_plus_RNA-seq-plus.gtrack,rna,+,131,UBERON:0002113,,encode,1.0,10.0,0.5,True,1.0
+61,61,UBERON:0002114 polyA plus RNA-seq,mouse-UBERON_0002114_polyA_plus_RNA-seq-plus.gtrack,rna,+,132,UBERON:0002114,,encode,1.0,10.0,0.5,True,1.0
+62,62,UBERON:0002190 polyA plus RNA-seq,mouse-UBERON_0002190_polyA_plus_RNA-seq-plus.gtrack,rna,+,133,UBERON:0002190,,encode,1.0,10.0,0.5,True,1.0
+63,63,UBERON:0002264 polyA plus RNA-seq,mouse-UBERON_0002264_polyA_plus_RNA-seq-plus.gtrack,rna,+,134,UBERON:0002264,,encode,1.0,10.0,0.5,True,1.0
+64,64,UBERON:0002305 total RNA-seq,mouse-UBERON_0002305_total_RNA-seq-plus.gtrack,rna,+,135,UBERON:0002305,,encode,1.0,10.0,0.5,True,1.0
+65,65,UBERON:0002369 polyA plus RNA-seq,mouse-UBERON_0002369_polyA_plus_RNA-seq-plus.gtrack,rna,+,136,UBERON:0002369,,encode,1.0,10.0,0.5,True,1.0
+66,66,UBERON:0002369 total RNA-seq,mouse-UBERON_0002369_total_RNA-seq-plus.gtrack,rna,+,137,UBERON:0002369,,encode,1.0,10.0,0.5,True,1.0
+67,67,UBERON:0002370 polyA plus RNA-seq,mouse-UBERON_0002370_polyA_plus_RNA-seq-plus.gtrack,rna,+,138,UBERON:0002370,,encode,1.0,10.0,0.5,True,1.0
+68,68,UBERON:0002371 polyA plus RNA-seq,mouse-UBERON_0002371_polyA_plus_RNA-seq-plus.gtrack,rna,+,139,UBERON:0002371,,encode,1.0,10.0,0.5,True,1.0
+69,69,UBERON:0003428 polyA plus RNA-seq,mouse-UBERON_0003428_polyA_plus_RNA-seq-plus.gtrack,rna,+,140,UBERON:0003428,,encode,1.0,10.0,0.5,True,1.0
+70,70,UBERON:0005343 polyA plus RNA-seq,mouse-UBERON_0005343_polyA_plus_RNA-seq-plus.gtrack,rna,+,141,UBERON:0005343,,encode,1.0,10.0,0.5,True,1.0
+71,71,CL:0000037 total RNA-seq,mouse-CL_0000037_total_RNA-seq-minus.gtrack,rna,-,0,CL:0000037,,encode,1.0,10.0,0.5,True,1.0
+72,72,CL:0000038 total RNA-seq,mouse-CL_0000038_total_RNA-seq-minus.gtrack,rna,-,1,CL:0000038,,encode,1.0,10.0,0.5,True,1.0
+73,73,CL:0000049 total RNA-seq,mouse-CL_0000049_total_RNA-seq-minus.gtrack,rna,-,2,CL:0000049,,encode,1.0,10.0,0.5,True,1.0
+74,74,CL:0000050 polyA plus RNA-seq,mouse-CL_0000050_polyA_plus_RNA-seq-minus.gtrack,rna,-,3,CL:0000050,,encode,1.0,10.0,0.5,True,1.0
+75,75,CL:0000050 total RNA-seq,mouse-CL_0000050_total_RNA-seq-minus.gtrack,rna,-,4,CL:0000050,,encode,1.0,10.0,0.5,True,1.0
+76,76,CL:0000084 total RNA-seq,mouse-CL_0000084_total_RNA-seq-minus.gtrack,rna,-,5,CL:0000084,,encode,1.0,10.0,0.5,True,1.0
+77,77,CL:0000235 polyA plus RNA-seq,mouse-CL_0000235_polyA_plus_RNA-seq-minus.gtrack,rna,-,6,CL:0000235,,encode,1.0,10.0,0.5,True,1.0
+78,78,CL:0000235 total RNA-seq,mouse-CL_0000235_total_RNA-seq-minus.gtrack,rna,-,7,CL:0000235,,encode,1.0,10.0,0.5,True,1.0
+79,79,CL:0000236 total RNA-seq,mouse-CL_0000236_total_RNA-seq-minus.gtrack,rna,-,8,CL:0000236,,encode,1.0,10.0,0.5,True,1.0
+80,80,CL:0000553 total RNA-seq,mouse-CL_0000553_total_RNA-seq-minus.gtrack,rna,-,9,CL:0000553,,encode,1.0,10.0,0.5,True,1.0
+81,81,CL:0000556 polyA plus RNA-seq,mouse-CL_0000556_polyA_plus_RNA-seq-minus.gtrack,rna,-,10,CL:0000556,,encode,1.0,10.0,0.5,True,1.0
+82,82,CL:0000556 total RNA-seq,mouse-CL_0000556_total_RNA-seq-minus.gtrack,rna,-,11,CL:0000556,,encode,1.0,10.0,0.5,True,1.0
+83,83,CL:0000557 total RNA-seq,mouse-CL_0000557_total_RNA-seq-minus.gtrack,rna,-,12,CL:0000557,,encode,1.0,10.0,0.5,True,1.0
+84,84,CL:0000576 total RNA-seq,mouse-CL_0000576_total_RNA-seq-minus.gtrack,rna,-,13,CL:0000576,,encode,1.0,10.0,0.5,True,1.0
+85,85,CL:0000765 polyA plus RNA-seq,mouse-CL_0000765_polyA_plus_RNA-seq-minus.gtrack,rna,-,14,CL:0000765,,encode,1.0,10.0,0.5,True,1.0
+86,86,CL:0000765 total RNA-seq,mouse-CL_0000765_total_RNA-seq-minus.gtrack,rna,-,15,CL:0000765,,encode,1.0,10.0,0.5,True,1.0
+87,87,CL:0000775 total RNA-seq,mouse-CL_0000775_total_RNA-seq-minus.gtrack,rna,-,16,CL:0000775,,encode,1.0,10.0,0.5,True,1.0
+88,88,CL:0000837 polyA plus RNA-seq,mouse-CL_0000837_polyA_plus_RNA-seq-minus.gtrack,rna,-,17,CL:0000837,,encode,1.0,10.0,0.5,True,1.0
+89,89,CL:0002476 polyA plus RNA-seq,mouse-CL_0002476_polyA_plus_RNA-seq-minus.gtrack,rna,-,18,CL:0002476,,encode,1.0,10.0,0.5,True,1.0
+90,90,CL:2000042 polyA plus RNA-seq,mouse-CL_2000042_polyA_plus_RNA-seq-minus.gtrack,rna,-,19,CL:2000042,,encode,1.0,10.0,0.5,True,1.0
+91,91,EFO:0002034 polyA plus RNA-seq,mouse-EFO_0002034_polyA_plus_RNA-seq-minus.gtrack,rna,-,20,EFO:0002034,,encode,1.0,10.0,0.5,True,1.0
+92,92,EFO:0002034 total RNA-seq,mouse-EFO_0002034_total_RNA-seq-minus.gtrack,rna,-,21,EFO:0002034,,encode,1.0,10.0,0.5,True,1.0
+93,93,EFO:0002055 polyA plus RNA-seq,mouse-EFO_0002055_polyA_plus_RNA-seq-minus.gtrack,rna,-,22,EFO:0002055,,encode,1.0,10.0,0.5,True,1.0
+94,94,EFO:0003971 polyA plus RNA-seq,mouse-EFO_0003971_polyA_plus_RNA-seq-minus.gtrack,rna,-,23,EFO:0003971,,encode,1.0,10.0,0.5,True,1.0
+95,95,EFO:0003971 total RNA-seq,mouse-EFO_0003971_total_RNA-seq-minus.gtrack,rna,-,24,EFO:0003971,,encode,1.0,10.0,0.5,True,1.0
+96,96,EFO:0005233 total RNA-seq,mouse-EFO_0005233_total_RNA-seq-minus.gtrack,rna,-,25,EFO:0005233,,encode,1.0,10.0,0.5,True,1.0
+97,97,EFO:0005483 polyA plus RNA-seq,mouse-EFO_0005483_polyA_plus_RNA-seq-minus.gtrack,rna,-,26,EFO:0005483,,encode,1.0,10.0,0.5,True,1.0
+98,98,EFO:0007075 total RNA-seq,mouse-EFO_0007075_total_RNA-seq-minus.gtrack,rna,-,27,EFO:0007075,,encode,1.0,10.0,0.5,True,1.0
+99,99,NTR:0000496 total RNA-seq,mouse-NTR_0000496_total_RNA-seq-minus.gtrack,rna,-,28,NTR:0000496,,encode,1.0,10.0,0.5,True,1.0
+100,100,NTR:0000501 total RNA-seq,mouse-NTR_0000501_total_RNA-seq-minus.gtrack,rna,-,29,NTR:0000501,,encode,1.0,10.0,0.5,True,1.0
+101,101,NTR:0000646 total RNA-seq,mouse-NTR_0000646_total_RNA-seq-minus.gtrack,rna,-,30,NTR:0000646,,encode,1.0,10.0,0.5,True,1.0
+102,102,NTR:0000714 polyA plus RNA-seq,mouse-NTR_0000714_polyA_plus_RNA-seq-minus.gtrack,rna,-,31,NTR:0000714,,encode,1.0,10.0,0.5,True,1.0
+103,103,UBERON:0000059 polyA plus RNA-seq,mouse-UBERON_0000059_polyA_plus_RNA-seq-minus.gtrack,rna,-,32,UBERON:0000059,,encode,1.0,10.0,0.5,True,1.0
+104,104,UBERON:0000473 polyA plus RNA-seq,mouse-UBERON_0000473_polyA_plus_RNA-seq-minus.gtrack,rna,-,33,UBERON:0000473,,encode,1.0,10.0,0.5,True,1.0
+105,105,UBERON:0000945 polyA plus RNA-seq,mouse-UBERON_0000945_polyA_plus_RNA-seq-minus.gtrack,rna,-,34,UBERON:0000945,,encode,1.0,10.0,0.5,True,1.0
+106,106,UBERON:0000948 polyA plus RNA-seq,mouse-UBERON_0000948_polyA_plus_RNA-seq-minus.gtrack,rna,-,35,UBERON:0000948,,encode,1.0,10.0,0.5,True,1.0
+107,107,UBERON:0000948 total RNA-seq,mouse-UBERON_0000948_total_RNA-seq-minus.gtrack,rna,-,36,UBERON:0000948,,encode,1.0,10.0,0.5,True,1.0
+108,108,UBERON:0000955 polyA plus RNA-seq,mouse-UBERON_0000955_polyA_plus_RNA-seq-minus.gtrack,rna,-,37,UBERON:0000955,,encode,1.0,10.0,0.5,True,1.0
+109,109,UBERON:0000992 polyA plus RNA-seq,mouse-UBERON_0000992_polyA_plus_RNA-seq-minus.gtrack,rna,-,38,UBERON:0000992,,encode,1.0,10.0,0.5,True,1.0
+110,110,UBERON:0001013 polyA plus RNA-seq,mouse-UBERON_0001013_polyA_plus_RNA-seq-minus.gtrack,rna,-,39,UBERON:0001013,,encode,1.0,10.0,0.5,True,1.0
+111,111,UBERON:0001017 polyA plus RNA-seq,mouse-UBERON_0001017_polyA_plus_RNA-seq-minus.gtrack,rna,-,40,UBERON:0001017,,encode,1.0,10.0,0.5,True,1.0
+112,112,UBERON:0001155 polyA plus RNA-seq,mouse-UBERON_0001155_polyA_plus_RNA-seq-minus.gtrack,rna,-,41,UBERON:0001155,,encode,1.0,10.0,0.5,True,1.0
+113,113,UBERON:0001159 polyA plus RNA-seq,mouse-UBERON_0001159_polyA_plus_RNA-seq-minus.gtrack,rna,-,42,UBERON:0001159,,encode,1.0,10.0,0.5,True,1.0
+114,114,UBERON:0001255 polyA plus RNA-seq,mouse-UBERON_0001255_polyA_plus_RNA-seq-minus.gtrack,rna,-,43,UBERON:0001255,,encode,1.0,10.0,0.5,True,1.0
+115,115,UBERON:0001264 polyA plus RNA-seq,mouse-UBERON_0001264_polyA_plus_RNA-seq-minus.gtrack,rna,-,44,UBERON:0001264,,encode,1.0,10.0,0.5,True,1.0
+116,116,UBERON:0001348 polyA plus RNA-seq,mouse-UBERON_0001348_polyA_plus_RNA-seq-minus.gtrack,rna,-,45,UBERON:0001348,,encode,1.0,10.0,0.5,True,1.0
+117,117,UBERON:0001388 total RNA-seq,mouse-UBERON_0001388_total_RNA-seq-minus.gtrack,rna,-,46,UBERON:0001388,,encode,1.0,10.0,0.5,True,1.0
+118,118,UBERON:0001870 polyA plus RNA-seq,mouse-UBERON_0001870_polyA_plus_RNA-seq-minus.gtrack,rna,-,47,UBERON:0001870,,encode,1.0,10.0,0.5,True,1.0
+119,119,UBERON:0001890 total RNA-seq,mouse-UBERON_0001890_total_RNA-seq-minus.gtrack,rna,-,48,UBERON:0001890,,encode,1.0,10.0,0.5,True,1.0
+120,120,UBERON:0001891 total RNA-seq,mouse-UBERON_0001891_total_RNA-seq-minus.gtrack,rna,-,49,UBERON:0001891,,encode,1.0,10.0,0.5,True,1.0
+121,121,UBERON:0001911 polyA plus RNA-seq,mouse-UBERON_0001911_polyA_plus_RNA-seq-minus.gtrack,rna,-,50,UBERON:0001911,,encode,1.0,10.0,0.5,True,1.0
+122,122,UBERON:0001987 polyA plus RNA-seq,mouse-UBERON_0001987_polyA_plus_RNA-seq-minus.gtrack,rna,-,51,UBERON:0001987,,encode,1.0,10.0,0.5,True,1.0
+123,123,UBERON:0002028 total RNA-seq,mouse-UBERON_0002028_total_RNA-seq-minus.gtrack,rna,-,52,UBERON:0002028,,encode,1.0,10.0,0.5,True,1.0
+124,124,UBERON:0002037 polyA plus RNA-seq,mouse-UBERON_0002037_polyA_plus_RNA-seq-minus.gtrack,rna,-,53,UBERON:0002037,,encode,1.0,10.0,0.5,True,1.0
+125,125,UBERON:0002048 polyA plus RNA-seq,mouse-UBERON_0002048_polyA_plus_RNA-seq-minus.gtrack,rna,-,54,UBERON:0002048,,encode,1.0,10.0,0.5,True,1.0
+126,126,UBERON:0002101 polyA plus RNA-seq,mouse-UBERON_0002101_polyA_plus_RNA-seq-minus.gtrack,rna,-,55,UBERON:0002101,,encode,1.0,10.0,0.5,True,1.0
+127,127,UBERON:0002106 polyA plus RNA-seq,mouse-UBERON_0002106_polyA_plus_RNA-seq-minus.gtrack,rna,-,56,UBERON:0002106,,encode,1.0,10.0,0.5,True,1.0
+128,128,UBERON:0002107 polyA plus RNA-seq,mouse-UBERON_0002107_polyA_plus_RNA-seq-minus.gtrack,rna,-,57,UBERON:0002107,,encode,1.0,10.0,0.5,True,1.0
+129,129,UBERON:0002107 total RNA-seq,mouse-UBERON_0002107_total_RNA-seq-minus.gtrack,rna,-,58,UBERON:0002107,,encode,1.0,10.0,0.5,True,1.0
+130,130,UBERON:0002108 polyA plus RNA-seq,mouse-UBERON_0002108_polyA_plus_RNA-seq-minus.gtrack,rna,-,59,UBERON:0002108,,encode,1.0,10.0,0.5,True,1.0
+131,131,UBERON:0002113 polyA plus RNA-seq,mouse-UBERON_0002113_polyA_plus_RNA-seq-minus.gtrack,rna,-,60,UBERON:0002113,,encode,1.0,10.0,0.5,True,1.0
+132,132,UBERON:0002114 polyA plus RNA-seq,mouse-UBERON_0002114_polyA_plus_RNA-seq-minus.gtrack,rna,-,61,UBERON:0002114,,encode,1.0,10.0,0.5,True,1.0
+133,133,UBERON:0002190 polyA plus RNA-seq,mouse-UBERON_0002190_polyA_plus_RNA-seq-minus.gtrack,rna,-,62,UBERON:0002190,,encode,1.0,10.0,0.5,True,1.0
+134,134,UBERON:0002264 polyA plus RNA-seq,mouse-UBERON_0002264_polyA_plus_RNA-seq-minus.gtrack,rna,-,63,UBERON:0002264,,encode,1.0,10.0,0.5,True,1.0
+135,135,UBERON:0002305 total RNA-seq,mouse-UBERON_0002305_total_RNA-seq-minus.gtrack,rna,-,64,UBERON:0002305,,encode,1.0,10.0,0.5,True,1.0
+136,136,UBERON:0002369 polyA plus RNA-seq,mouse-UBERON_0002369_polyA_plus_RNA-seq-minus.gtrack,rna,-,65,UBERON:0002369,,encode,1.0,10.0,0.5,True,1.0
+137,137,UBERON:0002369 total RNA-seq,mouse-UBERON_0002369_total_RNA-seq-minus.gtrack,rna,-,66,UBERON:0002369,,encode,1.0,10.0,0.5,True,1.0
+138,138,UBERON:0002370 polyA plus RNA-seq,mouse-UBERON_0002370_polyA_plus_RNA-seq-minus.gtrack,rna,-,67,UBERON:0002370,,encode,1.0,10.0,0.5,True,1.0
+139,139,UBERON:0002371 polyA plus RNA-seq,mouse-UBERON_0002371_polyA_plus_RNA-seq-minus.gtrack,rna,-,68,UBERON:0002371,,encode,1.0,10.0,0.5,True,1.0
+140,140,UBERON:0003428 polyA plus RNA-seq,mouse-UBERON_0003428_polyA_plus_RNA-seq-minus.gtrack,rna,-,69,UBERON:0003428,,encode,1.0,10.0,0.5,True,1.0
+141,141,UBERON:0005343 polyA plus RNA-seq,mouse-UBERON_0005343_polyA_plus_RNA-seq-minus.gtrack,rna,-,70,UBERON:0005343,,encode,1.0,10.0,0.5,True,1.0
+142,142,CL:0000187 polyA plus RNA-seq,mouse-CL_0000187_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,142,CL:0000187,,encode,1.0,10.0,0.5,True,1.0
+143,143,CL:0000792 polyA plus RNA-seq,mouse-CL_0000792_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,143,CL:0000792,,encode,1.0,10.0,0.5,True,1.0
+144,144,CL:0000895 polyA plus RNA-seq,mouse-CL_0000895_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,144,CL:0000895,,encode,1.0,10.0,0.5,True,1.0
+145,145,CL:0000905 polyA plus RNA-seq,mouse-CL_0000905_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,145,CL:0000905,,encode,1.0,10.0,0.5,True,1.0
+146,146,EFO:0001098 polyA plus RNA-seq,mouse-EFO_0001098_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,146,EFO:0001098,,encode,1.0,10.0,0.5,True,1.0
+147,147,EFO:0002034 polyA plus RNA-seq,mouse-EFO_0002034_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,147,EFO:0002034,,encode,1.0,10.0,0.5,True,1.0
+148,148,EFO:0002816 polyA plus RNA-seq,mouse-EFO_0002816_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,148,EFO:0002816,,encode,1.0,10.0,0.5,True,1.0
+149,149,EFO:0003971 polyA plus RNA-seq,mouse-EFO_0003971_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,149,EFO:0003971,,encode,1.0,10.0,0.5,True,1.0
+150,150,EFO:0005233 polyA plus RNA-seq,mouse-EFO_0005233_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,150,EFO:0005233,,encode,1.0,10.0,0.5,True,1.0
+151,151,EFO:0005481 polyA plus RNA-seq,mouse-EFO_0005481_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,151,EFO:0005481,,encode,1.0,10.0,0.5,True,1.0
+152,152,NTR:0000646 polyA plus RNA-seq,mouse-NTR_0000646_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,152,NTR:0000646,,encode,1.0,10.0,0.5,True,1.0
+153,153,NTR:0004148 polyA plus RNA-seq,mouse-NTR_0004148_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,153,NTR:0004148,,encode,1.0,10.0,0.5,True,1.0
+154,154,NTR:0004218 polyA plus RNA-seq,mouse-NTR_0004218_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,154,NTR:0004218,,encode,1.0,10.0,0.5,True,1.0
+155,155,UBERON:0000160 polyA plus RNA-seq,mouse-UBERON_0000160_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,155,UBERON:0000160,,encode,1.0,10.0,0.5,True,1.0
+156,156,UBERON:0000945 polyA plus RNA-seq,mouse-UBERON_0000945_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,156,UBERON:0000945,,encode,1.0,10.0,0.5,True,1.0
+157,157,UBERON:0000948 polyA plus RNA-seq,mouse-UBERON_0000948_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,157,UBERON:0000948,,encode,1.0,10.0,0.5,True,1.0
+158,158,UBERON:0001049 polyA plus RNA-seq,mouse-UBERON_0001049_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,158,UBERON:0001049,,encode,1.0,10.0,0.5,True,1.0
+159,159,UBERON:0001134 polyA plus RNA-seq,mouse-UBERON_0001134_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,159,UBERON:0001134,,encode,1.0,10.0,0.5,True,1.0
+160,160,UBERON:0001255 polyA plus RNA-seq,mouse-UBERON_0001255_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,160,UBERON:0001255,,encode,1.0,10.0,0.5,True,1.0
+161,161,UBERON:0001890 polyA plus RNA-seq,mouse-UBERON_0001890_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,161,UBERON:0001890,,encode,1.0,10.0,0.5,True,1.0
+162,162,UBERON:0001891 polyA plus RNA-seq,mouse-UBERON_0001891_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,162,UBERON:0001891,,encode,1.0,10.0,0.5,True,1.0
+163,163,UBERON:0002028 polyA plus RNA-seq,mouse-UBERON_0002028_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,163,UBERON:0002028,,encode,1.0,10.0,0.5,True,1.0
+164,164,UBERON:0002048 polyA plus RNA-seq,mouse-UBERON_0002048_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,164,UBERON:0002048,,encode,1.0,10.0,0.5,True,1.0
+165,165,UBERON:0002101 polyA plus RNA-seq,mouse-UBERON_0002101_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,165,UBERON:0002101,,encode,1.0,10.0,0.5,True,1.0
+166,166,UBERON:0002106 polyA plus RNA-seq,mouse-UBERON_0002106_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,166,UBERON:0002106,,encode,1.0,10.0,0.5,True,1.0
+167,167,UBERON:0002107 polyA plus RNA-seq,mouse-UBERON_0002107_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,167,UBERON:0002107,,encode,1.0,10.0,0.5,True,1.0
+168,168,UBERON:0002113 polyA plus RNA-seq,mouse-UBERON_0002113_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,168,UBERON:0002113,,encode,1.0,10.0,0.5,True,1.0
+169,169,UBERON:0002305 polyA plus RNA-seq,mouse-UBERON_0002305_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,169,UBERON:0002305,,encode,1.0,10.0,0.5,True,1.0
+170,170,UBERON:0002369 polyA plus RNA-seq,mouse-UBERON_0002369_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,170,UBERON:0002369,,encode,1.0,10.0,0.5,True,1.0
+171,171,UBERON:0002370 polyA plus RNA-seq,mouse-UBERON_0002370_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,171,UBERON:0002370,,encode,1.0,10.0,0.5,True,1.0
+172,172,UBERON:0012314 polyA plus RNA-seq,mouse-UBERON_0012314_polyA_plus_RNA-seq-unstranded.gtrack,rna,.,172,UBERON:0012314,,encode,1.0,10.0,0.5,True,1.0
+173,0,CL:0000084 DNase-seq,mouse-CL_0000084_DNase-seq_rescaled.gtrack,dnase,.,0,CL:0000084,,encode,1.0,10.0,0.5,False,1.0
+174,1,CL:0000136 DNase-seq,mouse-CL_0000136_DNase-seq_rescaled.gtrack,dnase,.,1,CL:0000136,,encode,1.0,10.0,0.5,False,1.0
+175,2,CL:0000236 DNase-seq,mouse-CL_0000236_DNase-seq_rescaled.gtrack,dnase,.,2,CL:0000236,,encode,1.0,10.0,0.5,False,1.0
+176,3,CL:0000492 DNase-seq,mouse-CL_0000492_DNase-seq_rescaled.gtrack,dnase,.,3,CL:0000492,,encode,1.0,10.0,0.5,False,1.0
+177,4,CL:0000576 DNase-seq,mouse-CL_0000576_DNase-seq_rescaled.gtrack,dnase,.,4,CL:0000576,,encode,1.0,10.0,0.5,False,1.0
+178,5,CL:0000623 DNase-seq,mouse-CL_0000623_DNase-seq_rescaled.gtrack,dnase,.,5,CL:0000623,,encode,1.0,10.0,0.5,False,1.0
+179,6,CL:0000792 DNase-seq,mouse-CL_0000792_DNase-seq_rescaled.gtrack,dnase,.,6,CL:0000792,,encode,1.0,10.0,0.5,False,1.0
+180,7,CL:0000895 DNase-seq,mouse-CL_0000895_DNase-seq_rescaled.gtrack,dnase,.,7,CL:0000895,,encode,1.0,10.0,0.5,False,1.0
+181,8,CL:0000902 DNase-seq,mouse-CL_0000902_DNase-seq_rescaled.gtrack,dnase,.,8,CL:0000902,,encode,1.0,10.0,0.5,False,1.0
+182,9,CL:0002553 DNase-seq,mouse-CL_0002553_DNase-seq_rescaled.gtrack,dnase,.,9,CL:0002553,,encode,1.0,10.0,0.5,False,1.0
+183,10,CL:0011107 DNase-seq,mouse-CL_0011107_DNase-seq_rescaled.gtrack,dnase,.,10,CL:0011107,,encode,1.0,10.0,0.5,False,1.0
+184,11,EFO:0001084 DNase-seq,mouse-EFO_0001084_DNase-seq_rescaled.gtrack,dnase,.,11,EFO:0001084,,encode,1.0,10.0,0.5,False,1.0
+185,12,EFO:0001222 DNase-seq,mouse-EFO_0001222_DNase-seq_rescaled.gtrack,dnase,.,12,EFO:0001222,,encode,1.0,10.0,0.5,False,1.0
+186,13,EFO:0002034 DNase-seq,mouse-EFO_0002034_DNase-seq_rescaled.gtrack,dnase,.,13,EFO:0002034,,encode,1.0,10.0,0.5,False,1.0
+187,14,EFO:0002076 DNase-seq,mouse-EFO_0002076_DNase-seq_rescaled.gtrack,dnase,.,14,EFO:0002076,,encode,1.0,10.0,0.5,False,1.0
+188,15,EFO:0003971 DNase-seq,mouse-EFO_0003971_DNase-seq_rescaled.gtrack,dnase,.,15,EFO:0003971,,encode,1.0,10.0,0.5,False,1.0
+189,16,EFO:0005233 DNase-seq,mouse-EFO_0005233_DNase-seq_rescaled.gtrack,dnase,.,16,EFO:0005233,,encode,1.0,10.0,0.5,False,1.0
+190,17,EFO:0005285 DNase-seq,mouse-EFO_0005285_DNase-seq_rescaled.gtrack,dnase,.,17,EFO:0005285,,encode,1.0,10.0,0.5,False,1.0
+191,18,EFO:0005480 DNase-seq,mouse-EFO_0005480_DNase-seq_rescaled.gtrack,dnase,.,18,EFO:0005480,,encode,1.0,10.0,0.5,False,1.0
+192,19,EFO:0005481 DNase-seq,mouse-EFO_0005481_DNase-seq_rescaled.gtrack,dnase,.,19,EFO:0005481,,encode,1.0,10.0,0.5,False,1.0
+193,20,EFO:0005482 DNase-seq,mouse-EFO_0005482_DNase-seq_rescaled.gtrack,dnase,.,20,EFO:0005482,,encode,1.0,10.0,0.5,False,1.0
+194,21,EFO:0005914 DNase-seq,mouse-EFO_0005914_DNase-seq_rescaled.gtrack,dnase,.,21,EFO:0005914,,encode,1.0,10.0,0.5,False,1.0
+195,22,EFO:0005915 DNase-seq,mouse-EFO_0005915_DNase-seq_rescaled.gtrack,dnase,.,22,EFO:0005915,,encode,1.0,10.0,0.5,False,1.0
+196,23,EFO:0005916 DNase-seq,mouse-EFO_0005916_DNase-seq_rescaled.gtrack,dnase,.,23,EFO:0005916,,encode,1.0,10.0,0.5,False,1.0
+197,24,EFO:0007069 DNase-seq,mouse-EFO_0007069_DNase-seq_rescaled.gtrack,dnase,.,24,EFO:0007069,,encode,1.0,10.0,0.5,False,1.0
+198,25,EFO:0007075 DNase-seq,mouse-EFO_0007075_DNase-seq_rescaled.gtrack,dnase,.,25,EFO:0007075,,encode,1.0,10.0,0.5,False,1.0
+199,26,EFO:0007601 DNase-seq,mouse-EFO_0007601_DNase-seq_rescaled.gtrack,dnase,.,26,EFO:0007601,,encode,1.0,10.0,0.5,False,1.0
+200,27,NTR:0000501 DNase-seq,mouse-NTR_0000501_DNase-seq_rescaled.gtrack,dnase,.,27,NTR:0000501,,encode,1.0,10.0,0.5,False,1.0
+201,28,NTR:0000646 DNase-seq,mouse-NTR_0000646_DNase-seq_rescaled.gtrack,dnase,.,28,NTR:0000646,,encode,1.0,10.0,0.5,False,1.0
+202,29,NTR:0000647 DNase-seq,mouse-NTR_0000647_DNase-seq_rescaled.gtrack,dnase,.,29,NTR:0000647,,encode,1.0,10.0,0.5,False,1.0
+203,30,NTR:0000719 DNase-seq,mouse-NTR_0000719_DNase-seq_rescaled.gtrack,dnase,.,30,NTR:0000719,,encode,1.0,10.0,0.5,False,1.0
+204,31,NTR:0000720 DNase-seq,mouse-NTR_0000720_DNase-seq_rescaled.gtrack,dnase,.,31,NTR:0000720,,encode,1.0,10.0,0.5,False,1.0
+205,32,NTR:0000721 DNase-seq,mouse-NTR_0000721_DNase-seq_rescaled.gtrack,dnase,.,32,NTR:0000721,,encode,1.0,10.0,0.5,False,1.0
+206,33,NTR:0000722 DNase-seq,mouse-NTR_0000722_DNase-seq_rescaled.gtrack,dnase,.,33,NTR:0000722,,encode,1.0,10.0,0.5,False,1.0
+207,34,NTR:0000741 DNase-seq,mouse-NTR_0000741_DNase-seq_rescaled.gtrack,dnase,.,34,NTR:0000741,,encode,1.0,10.0,0.5,False,1.0
+208,35,UBERON:0000059 DNase-seq,mouse-UBERON_0000059_DNase-seq_rescaled.gtrack,dnase,.,35,UBERON:0000059,,encode,1.0,10.0,0.5,False,1.0
+209,36,UBERON:0000160 DNase-seq,mouse-UBERON_0000160_DNase-seq_rescaled.gtrack,dnase,.,36,UBERON:0000160,,encode,1.0,10.0,0.5,False,1.0
+210,37,UBERON:0000473 DNase-seq,mouse-UBERON_0000473_DNase-seq_rescaled.gtrack,dnase,.,37,UBERON:0000473,,encode,1.0,10.0,0.5,False,1.0
+211,38,UBERON:0000922 DNase-seq,mouse-UBERON_0000922_DNase-seq_rescaled.gtrack,dnase,.,38,UBERON:0000922,,encode,1.0,10.0,0.5,False,1.0
+212,39,UBERON:0000926 DNase-seq,mouse-UBERON_0000926_DNase-seq_rescaled.gtrack,dnase,.,39,UBERON:0000926,,encode,1.0,10.0,0.5,False,1.0
+213,40,UBERON:0000945 DNase-seq,mouse-UBERON_0000945_DNase-seq_rescaled.gtrack,dnase,.,40,UBERON:0000945,,encode,1.0,10.0,0.5,False,1.0
+214,41,UBERON:0000948 DNase-seq,mouse-UBERON_0000948_DNase-seq_rescaled.gtrack,dnase,.,41,UBERON:0000948,,encode,1.0,10.0,0.5,False,1.0
+215,42,UBERON:0000955 DNase-seq,mouse-UBERON_0000955_DNase-seq_rescaled.gtrack,dnase,.,42,UBERON:0000955,,encode,1.0,10.0,0.5,False,1.0
+216,43,UBERON:0000966 DNase-seq,mouse-UBERON_0000966_DNase-seq_rescaled.gtrack,dnase,.,43,UBERON:0000966,,encode,1.0,10.0,0.5,False,1.0
+217,44,UBERON:0000992 DNase-seq,mouse-UBERON_0000992_DNase-seq_rescaled.gtrack,dnase,.,44,UBERON:0000992,,encode,1.0,10.0,0.5,False,1.0
+218,45,UBERON:0001040 DNase-seq,mouse-UBERON_0001040_DNase-seq_rescaled.gtrack,dnase,.,45,UBERON:0001040,,encode,1.0,10.0,0.5,False,1.0
+219,46,UBERON:0001049 DNase-seq,mouse-UBERON_0001049_DNase-seq_rescaled.gtrack,dnase,.,46,UBERON:0001049,,encode,1.0,10.0,0.5,False,1.0
+220,47,UBERON:0001134 DNase-seq,mouse-UBERON_0001134_DNase-seq_rescaled.gtrack,dnase,.,47,UBERON:0001134,,encode,1.0,10.0,0.5,False,1.0
+221,48,UBERON:0001255 DNase-seq,mouse-UBERON_0001255_DNase-seq_rescaled.gtrack,dnase,.,48,UBERON:0001255,,encode,1.0,10.0,0.5,False,1.0
+222,49,UBERON:0001388 DNase-seq,mouse-UBERON_0001388_DNase-seq_rescaled.gtrack,dnase,.,49,UBERON:0001388,,encode,1.0,10.0,0.5,False,1.0
+223,50,UBERON:0001870 DNase-seq,mouse-UBERON_0001870_DNase-seq_rescaled.gtrack,dnase,.,50,UBERON:0001870,,encode,1.0,10.0,0.5,False,1.0
+224,51,UBERON:0001890 DNase-seq,mouse-UBERON_0001890_DNase-seq_rescaled.gtrack,dnase,.,51,UBERON:0001890,,encode,1.0,10.0,0.5,False,1.0
+225,52,UBERON:0001891 DNase-seq,mouse-UBERON_0001891_DNase-seq_rescaled.gtrack,dnase,.,52,UBERON:0001891,,encode,1.0,10.0,0.5,False,1.0
+226,53,UBERON:0001893 DNase-seq,mouse-UBERON_0001893_DNase-seq_rescaled.gtrack,dnase,.,53,UBERON:0001893,,encode,1.0,10.0,0.5,False,1.0
+227,54,UBERON:0002028 DNase-seq,mouse-UBERON_0002028_DNase-seq_rescaled.gtrack,dnase,.,54,UBERON:0002028,,encode,1.0,10.0,0.5,False,1.0
+228,55,UBERON:0002037 DNase-seq,mouse-UBERON_0002037_DNase-seq_rescaled.gtrack,dnase,.,55,UBERON:0002037,,encode,1.0,10.0,0.5,False,1.0
+229,56,UBERON:0002048 DNase-seq,mouse-UBERON_0002048_DNase-seq_rescaled.gtrack,dnase,.,56,UBERON:0002048,,encode,1.0,10.0,0.5,False,1.0
+230,57,UBERON:0002101 DNase-seq,mouse-UBERON_0002101_DNase-seq_rescaled.gtrack,dnase,.,57,UBERON:0002101,,encode,1.0,10.0,0.5,False,1.0
+231,58,UBERON:0002106 DNase-seq,mouse-UBERON_0002106_DNase-seq_rescaled.gtrack,dnase,.,58,UBERON:0002106,,encode,1.0,10.0,0.5,False,1.0
+232,59,UBERON:0002107 DNase-seq,mouse-UBERON_0002107_DNase-seq_rescaled.gtrack,dnase,.,59,UBERON:0002107,,encode,1.0,10.0,0.5,False,1.0
+233,60,UBERON:0002113 DNase-seq,mouse-UBERON_0002113_DNase-seq_rescaled.gtrack,dnase,.,60,UBERON:0002113,,encode,1.0,10.0,0.5,False,1.0
+234,61,UBERON:0002305 DNase-seq,mouse-UBERON_0002305_DNase-seq_rescaled.gtrack,dnase,.,61,UBERON:0002305,,encode,1.0,10.0,0.5,False,1.0
+235,62,UBERON:0002369 DNase-seq,mouse-UBERON_0002369_DNase-seq_rescaled.gtrack,dnase,.,62,UBERON:0002369,,encode,1.0,10.0,0.5,False,1.0
+236,63,UBERON:0002370 DNase-seq,mouse-UBERON_0002370_DNase-seq_rescaled.gtrack,dnase,.,63,UBERON:0002370,,encode,1.0,10.0,0.5,False,1.0
+237,64,UBERON:0003428 DNase-seq,mouse-UBERON_0003428_DNase-seq_rescaled.gtrack,dnase,.,64,UBERON:0003428,,encode,1.0,10.0,0.5,False,1.0
+238,65,UBERON:0005417 DNase-seq,mouse-UBERON_0005417_DNase-seq_rescaled.gtrack,dnase,.,65,UBERON:0005417,,encode,1.0,10.0,0.5,False,1.0
+239,66,UBERON:0012314 DNase-seq,mouse-UBERON_0012314_DNase-seq_rescaled.gtrack,dnase,.,66,UBERON:0012314,,encode,1.0,10.0,0.5,False,1.0
+240,0,CL:0000553 ATAC-seq,mouse-CL_0000553_ATAC-seq_rescaled.gtrack,atac,.,0,CL:0000553,,encode,1.0,10.0,1.0,False,1.0
+241,1,CL:0000557 ATAC-seq,mouse-CL_0000557_ATAC-seq_rescaled.gtrack,atac,.,1,CL:0000557,,encode,1.0,10.0,1.0,False,1.0
+242,2,CL:0000792 ATAC-seq,mouse-CL_0000792_ATAC-seq_rescaled.gtrack,atac,.,2,CL:0000792,,encode,1.0,10.0,1.0,False,1.0
+243,3,EFO:0005481 ATAC-seq,mouse-EFO_0005481_ATAC-seq_rescaled.gtrack,atac,.,3,EFO:0005481,,encode,1.0,10.0,1.0,False,1.0
+244,4,NTR:0004148 ATAC-seq,mouse-NTR_0004148_ATAC-seq_rescaled.gtrack,atac,.,4,NTR:0004148,,encode,1.0,10.0,1.0,False,1.0
+245,5,NTR:0004218 ATAC-seq,mouse-NTR_0004218_ATAC-seq_rescaled.gtrack,atac,.,5,NTR:0004218,,encode,1.0,10.0,1.0,False,1.0
+246,6,UBERON:0000160 ATAC-seq,mouse-UBERON_0000160_ATAC-seq_rescaled.gtrack,atac,.,6,UBERON:0000160,,encode,1.0,10.0,1.0,False,1.0
+247,7,UBERON:0000945 ATAC-seq,mouse-UBERON_0000945_ATAC-seq_rescaled.gtrack,atac,.,7,UBERON:0000945,,encode,1.0,10.0,1.0,False,1.0
+248,8,UBERON:0000948 ATAC-seq,mouse-UBERON_0000948_ATAC-seq_rescaled.gtrack,atac,.,8,UBERON:0000948,,encode,1.0,10.0,1.0,False,1.0
+249,9,UBERON:0001049 ATAC-seq,mouse-UBERON_0001049_ATAC-seq_rescaled.gtrack,atac,.,9,UBERON:0001049,,encode,1.0,10.0,1.0,False,1.0
+250,10,UBERON:0001890 ATAC-seq,mouse-UBERON_0001890_ATAC-seq_rescaled.gtrack,atac,.,10,UBERON:0001890,,encode,1.0,10.0,1.0,False,1.0
+251,11,UBERON:0001891 ATAC-seq,mouse-UBERON_0001891_ATAC-seq_rescaled.gtrack,atac,.,11,UBERON:0001891,,encode,1.0,10.0,1.0,False,1.0
+252,12,UBERON:0002028 ATAC-seq,mouse-UBERON_0002028_ATAC-seq_rescaled.gtrack,atac,.,12,UBERON:0002028,,encode,1.0,10.0,1.0,False,1.0
+253,13,UBERON:0002048 ATAC-seq,mouse-UBERON_0002048_ATAC-seq_rescaled.gtrack,atac,.,13,UBERON:0002048,,encode,1.0,10.0,1.0,False,1.0
+254,14,UBERON:0002101 ATAC-seq,mouse-UBERON_0002101_ATAC-seq_rescaled.gtrack,atac,.,14,UBERON:0002101,,encode,1.0,10.0,1.0,False,1.0
+255,15,UBERON:0002107 ATAC-seq,mouse-UBERON_0002107_ATAC-seq_rescaled.gtrack,atac,.,15,UBERON:0002107,,encode,1.0,10.0,1.0,False,1.0
+256,16,UBERON:0002113 ATAC-seq,mouse-UBERON_0002113_ATAC-seq_rescaled.gtrack,atac,.,16,UBERON:0002113,,encode,1.0,10.0,1.0,False,1.0
+257,17,UBERON:0012314 ATAC-seq,mouse-UBERON_0012314_ATAC-seq_rescaled.gtrack,atac,.,17,UBERON:0012314,,encode,1.0,10.0,1.0,False,1.0
