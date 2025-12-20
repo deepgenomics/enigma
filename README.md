@@ -52,7 +52,16 @@ Please contact andrew.jung (at) deepgenomics.com, andrewjung (at) psi.toronto.ed
 
 ## Preprint and Citation
 
-Coming soon!
+https://www.biorxiv.org/content/10.64898/2025.12.18.694875v1
+
+```
+@article {Jung2025.12.18.694875,
+    author = {Jung, Andrew J and Zhu, Helen and Li, Roujia and Gao, Alice J. and Lau, Tammy T.Y. and Chu, Vivian S. and Lim, Declan and Cole, Christopher B. and Lee, Leo J. and Celaj, Albi and Frey, Brendan J.},
+    title = {Enigma: An Efficient Model for Deciphering Regulatory Genomics},
+    year = {2025},
+    journal = {bioRxiv}
+}
+```
 
 ## Acknowledgements
 
