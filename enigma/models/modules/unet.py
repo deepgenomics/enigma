@@ -25,7 +25,15 @@ def _crop_tensor(
     if l_crop < 0 or r_crop < 0:
         raise ValueError(f"Crop sizes must be non-negative, got {l_crop}, {r_crop}")
 
-    end = -r_crop if r_crop > 0 else None
+    input_length = x.shape[-1]
+    if l_crop + r_crop >= input_length:
+        raise ValueError(
+            "Invalid crop sizes: l_crop + r_crop must be smaller than input "
+            f"length, got l_crop={l_crop}, r_crop={r_crop}, "
+            f"input_length={input_length}"
+        )
+
+    end = input_length - r_crop
     return x[:, :, l_crop:end]
 
 
@@ -438,8 +446,8 @@ class UNetModule(nn.Module):
         computation and memory.
         """
         assert (
-            cropped_length > 0
-        ), "Cropped length must be greater than 0 for efficient cropping"
+            cropped_length >= 0
+        ), "Cropped length must be non-negative, got {cropped_length}"
 
         assert (
             len(input.shape) == 3
