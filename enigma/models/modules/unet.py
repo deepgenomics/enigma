@@ -18,6 +18,9 @@ def _crop_tensor(
         x: Input tensor of shape (batch, channels, length)
         l_crop: Number of tokens to crop from the left
         r_crop: Number of tokens to crop from the right
+
+    Returns:
+        Cropped tensor of shape (batch, channels, length - l_crop - r_crop)
     """
     if l_crop < 0 or r_crop < 0:
         raise ValueError(f"Crop sizes must be non-negative, got {l_crop}, {r_crop}")
