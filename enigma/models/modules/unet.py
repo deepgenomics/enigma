@@ -22,13 +22,11 @@ def _crop_tensor(
     Returns:
         Cropped tensor of shape (batch, channels, length - l_crop - r_crop)
     """
-    if l_crop < 0 or r_crop < 0:
-        raise ValueError(f"Crop sizes must be non-negative, got {l_crop}, {r_crop}")
-
     input_length = x.shape[-1]
-    if l_crop + r_crop >= input_length:
+    # empty output is valid
+    if l_crop + r_crop > input_length:
         raise ValueError(
-            "Invalid crop sizes: l_crop + r_crop must be smaller than input "
+            "Invalid crop sizes: l_crop + r_crop must be smaller or equal to input "
             f"length, got l_crop={l_crop}, r_crop={r_crop}, "
             f"input_length={input_length}"
         )
@@ -447,7 +445,7 @@ class UNetModule(nn.Module):
         """
         assert (
             cropped_length >= 0
-        ), "Cropped length must be non-negative, got {cropped_length}"
+        ), f"Cropped length must be non-negative, got {cropped_length}"
 
         assert (
             len(input.shape) == 3
