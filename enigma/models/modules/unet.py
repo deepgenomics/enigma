@@ -9,6 +9,23 @@ from torch import Tensor
 from enigma.models.layers.conv import ConvBlock
 
 
+def _crop_tensor(
+    x: Float[Tensor, "b d l"], l_crop: int, r_crop: int
+) -> Float[Tensor, "b d l_cropped"]:
+    """Safely crop a tensor from both ends.
+
+    Args:
+        x: Input tensor of shape (batch, channels, length)
+        l_crop: Number of tokens to crop from the left
+        r_crop: Number of tokens to crop from the right
+    """
+    if l_crop < 0 or r_crop < 0:
+        raise ValueError(f"Crop sizes must be non-negative, got {l_crop}, {r_crop}")
+
+    end = -r_crop if r_crop > 0 else None
+    return x[:, :, l_crop:end]
+
+
 class UNetEncoder(nn.Module):
     """UNet encoder which applies a downsampling by a factor of 2 and a ConvBlock"""
 
@@ -311,7 +328,7 @@ class UNetDecoderBlocks(nn.Module):
             Upsampled and cropped output tensor
         """
         # Initial token cropping after trunk
-        x = x[:, :, l_tokens_to_crop:-r_tokens_to_crop]
+        x = _crop_tensor(x, l_tokens_to_crop, r_tokens_to_crop)
 
         # Progressive upsampling with skip connections
         for i, decoder in enumerate(self.decoders):
@@ -321,7 +338,7 @@ class UNetDecoderBlocks(nn.Module):
             # At each stage, resolution doubles: 2^(i+1)
             l_skip_crop = l_tokens_to_crop * 2 ** (i + 1)
             r_skip_crop = r_tokens_to_crop * 2 ** (i + 1)
-            skip = skip[:, :, l_skip_crop:-r_skip_crop]
+            skip = _crop_tensor(skip, l_skip_crop, r_skip_crop)
 
             x = decoder(x, skip)
 
@@ -451,10 +468,12 @@ class UNetModule(nn.Module):
         # dividing by the total upsampling. As explain in 2) above, for any tokens
         # at the edge where part of the upsampled tokens are cropped, leave them
         # (i.e. round down the number of tokens to crop)
-        l_tokens_to_crop = (
+        l_tokens_to_crop = max(
+            0,
             l_cropped_length // self.total_pool_size - self.decoder_kernel_size // 2
         )
-        r_tokens_to_crop = (
+        r_tokens_to_crop = max(
+            0,
             r_cropped_length // self.total_pool_size - self.decoder_kernel_size // 2
         )
 
@@ -479,8 +498,8 @@ class UNetModule(nn.Module):
 
         # Apply residual cropping the get the original sequence length minus
         # the cropping lengths
-        output = x[:, :, l_residual_crop:-r_residual_crop]
+        output = _crop_tensor(x, l_residual_crop, r_residual_crop)
 
-        assert output.shape[-1] == L - cropped_length * 2
+        assert output.shape[-1] == L - cropped_length * 2, f"Output length after cropping {output.shape[-1]} does not match expected length {L - cropped_length * 2}"
 
         return output
