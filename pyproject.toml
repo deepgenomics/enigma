@@ -16,5 +16,10 @@ dependencies = []  # Leave empty if using conda for dependency management
 [project.urls]
 Homepage = "https://github.com/deepgenomics/enigma"
 
-[tool.setuptools]
-packages = ["enigma"]
+# Discover the `enigma` package AND all of its subpackages (enigma.data, enigma.models,
+# enigma.models.layers, ...). The previous explicit `packages = ["enigma"]` listed only the
+# top-level package, so a regular (non-editable) `pip install` produced a wheel containing just
+# enigma/__init__.py and config.py, and `from enigma.data.sequences import ...` failed with
+# ModuleNotFoundError at runtime. Editable installs masked this because they point at the source tree.
+[tool.setuptools.packages.find]
+include = ["enigma*"]
